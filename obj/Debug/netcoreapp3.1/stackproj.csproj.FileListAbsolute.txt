@@ -1,0 +1,13 @@
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\obj\Debug\netcoreapp3.1\stackproj.csprojAssemblyReference.cache
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\obj\Debug\netcoreapp3.1\stackproj.AssemblyInfoInputs.cache
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\obj\Debug\netcoreapp3.1\stackproj.AssemblyInfo.cs
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\obj\Debug\netcoreapp3.1\stackproj.csproj.CoreCompileInputs.cache
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\bin\Debug\netcoreapp3.1\stackproj.exe
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\bin\Debug\netcoreapp3.1\stackproj.deps.json
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\bin\Debug\netcoreapp3.1\stackproj.runtimeconfig.json
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\bin\Debug\netcoreapp3.1\stackproj.runtimeconfig.dev.json
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\bin\Debug\netcoreapp3.1\stackproj.dll
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\bin\Debug\netcoreapp3.1\stackproj.pdb
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\obj\Debug\netcoreapp3.1\stackproj.dll
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\obj\Debug\netcoreapp3.1\stackproj.pdb
+C:\Users\maura\udemy\CSharpIntermediate\stackproj\obj\Debug\netcoreapp3.1\stackproj.genruntimeconfig.cache
